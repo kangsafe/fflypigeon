@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chart_menu.xml",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\menu\\chart_menu.xml"
+    }
+]

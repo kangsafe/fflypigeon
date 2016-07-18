@@ -1,0 +1,14 @@
+-keep class com.android.flypigeon.home.FlyPigeonMainActivity { <init>(); }
+-keep class com.android.flypigeon.home.ChartMsgActivity { <init>(); }
+-keep class com.android.flypigeon.home.MyFileManager { <init>(); }
+-keep class com.android.flypigeon.service.MainService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

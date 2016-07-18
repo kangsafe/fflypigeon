@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\black_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\black_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\folder_icon2.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\folder_icon2.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\call_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\call_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\folder_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\folder_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\file_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\file_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\send_msg_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\send_msg_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\image.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\send_file_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\send_file_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\flypigeon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\flypigeon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\setting_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\setting_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\all_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\all_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\about_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\about_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\white_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\white_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\long_cancel.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\long_cancel.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\xls.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\xls.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\video.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\video.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg.jpg",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\doc.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\doc.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\green_pig.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\green_pig.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\red_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\red_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\blue_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\blue_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\send_msg_bg.9.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\send_msg_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sendmsg_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\sendmsg_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\folder_up.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\folder_up.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ppt.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\ppt.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\music.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\music.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\apk.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\apk.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\yellow_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\yellow_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rar.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\rar.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jar.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\jar.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pig_egg.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\pig_egg.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\received_msg_bg.9.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\received_msg_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dialog_bg.jpg",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\dialog_bg.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\attatchment_icon.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\attatchment_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\green_bird.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\green_bird.png"
+    },
+    {
+        "merged": "E:\\workspace\\fflypigeon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\folder_root.png",
+        "source": "E:\\workspace\\fflypigeon\\app\\src\\main\\res\\drawable-ldpi\\folder_root.png"
+    }
+]
